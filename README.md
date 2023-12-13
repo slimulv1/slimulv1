@@ -48,3 +48,7 @@ me.say_hi()
 <a href="https://github.com/slimulv1/Hyprland">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slimulv1&repo=Hyprland&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Hyprlandyprland" />
 </a>
+
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=ox8j4b18recq7zrlig89bwg8m">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=ox8j4b18recq7zrlig89bwg8m" alt="Data Card for Spotify">
+</a>
