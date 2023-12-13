@@ -37,8 +37,6 @@ me.say_hi()
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=ox8j4b18recq7zrlig89bwg8m&count=5">
 </p>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=slimulv1&theme=github-dark-dimmed&custom_title=slimulv1%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/slimulv1/dotfiles">
