@@ -1,10 +1,10 @@
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <p align="center">
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:slimulv1"></a>
   <a href="https://github.com/slimulv1"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"></a>
 </p>
 
 <h1>Hi there 👋</h1>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ```python
 #!/usr/bin/python
