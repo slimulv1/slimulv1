@@ -24,11 +24,11 @@ me = LinuxEnthusiastic()
 me.say_hi()
 ```
 
-<p">
+<p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ox8j4b18recq7zrlig89bwg8m&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
 </p>
 
-<p>
+<p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=ox8j4b18recq7zrlig89bwg8m&count=5">
 </p>
 
