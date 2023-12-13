@@ -1,4 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slimulv1&layout=compact)
 <p align="center">
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:slimulv1"></a>
   <a href="https://github.com/slimulv1"><img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"></a>
@@ -26,6 +25,9 @@ me = LinuxEnthusiastic()
 me.say_hi()
 ```
 
+<p>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slimulv1&layout=compact)
+</p>
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ox8j4b18recq7zrlig89bwg8m&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"> 
 </p>
