@@ -2,6 +2,8 @@
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:slimulv1"></a>
 </p>
 
+<h1 align="center">Hi there 👋</h1>
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -21,9 +23,6 @@ class LinuxEnthusiastic:
 me = LinuxEnthusiastic()
 me.say_hi()
 ```
-
-<h1 align="center">Hi 👋, I'm slimulv1</h1>
-<h3 align="center">A linux enthusiastic from Vietnam</h3>
 
 <p align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ox8j4b18recq7zrlig89bwg8m&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
