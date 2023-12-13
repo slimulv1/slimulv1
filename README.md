@@ -26,7 +26,8 @@ me.say_hi()
 ```
 
 <p>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ox8j4b18recq7zrlig89bwg8m&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ox8j4b18recq7zrlig89bwg8m&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"> 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ApoorvTyagi&theme=dark)](https://git.io/streak-stats)
 </p>
 
 <p>
