@@ -1,8 +1,8 @@
-<p align="center">
+<p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:slimulv1"></a>
 </p>
 
-<h1 align="center">Hi there 👋</h1>
+<h1>Hi there 👋</h1>
 
 ```python
 #!/usr/bin/python
@@ -24,11 +24,11 @@ me = LinuxEnthusiastic()
 me.say_hi()
 ```
 
-<p align="center">
+<p">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ox8j4b18recq7zrlig89bwg8m&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
 </p>
 
-<p align="center">
+<p>
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=ox8j4b18recq7zrlig89bwg8m&count=5">
 </p>
 
