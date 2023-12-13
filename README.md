@@ -8,4 +8,4 @@
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
 </p>
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=ox8j4b18recq7zrlig89bwg8m&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ox8j4b18recq7zrlig89bwg8m&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]]
+
