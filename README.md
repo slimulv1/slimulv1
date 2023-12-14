@@ -13,7 +13,7 @@ class LinuxEnthusiastic:
     def __init__(self):
         self.name = "Slimu Neet"
         self.role = "Linux Enthusiastic"
-        self.language_spoken = ["vi_VN", "en_US"]
+        self.language_spoken = ["vi_VN", "ja_JP", "en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
