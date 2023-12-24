@@ -1,5 +1,4 @@
 # Hello there 👋
-[![](https://discord.c99.nl/widget/theme-4/374186828174983169.png)](https://discord.com/channels/@me/482139697796349953)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=slimulv1imulv1.slimulv1)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
