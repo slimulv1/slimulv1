@@ -25,12 +25,4 @@ me.say_hi()
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=ox8j4b18recq7zrlig89bwg8m&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"> 
 </p>
 
-## 🗂️ Highlight Projects
 
-<a href="https://github.com/slimulv1/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slimulv1&repo=dotfiles&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="dotfiles" />
-</a>
-
-<a href="https://github.com/slimulv1/Hyprland">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slimulv1&repo=Hyprland&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Hyprlandyprland" />
-</a>
