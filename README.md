@@ -1,6 +1,6 @@
 cirno64@perfectfreeze
 --------------------------
-Distro: Gentoo Linux
+Distro: Void Linux
 Interests: Embedded linux, ARM architecture
 Programming languages: C, C++, Shell
 
