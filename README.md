@@ -1,6 +1,7 @@
 cirno64@perfectfreeze
 --------------------------
 Distro: Void Linux
+WM: WindowMaker (XLibre)
 Interests: Embedded linux, ARM architecture
 Programming languages: C, C++, Shell
 
